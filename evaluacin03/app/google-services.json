@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "984277383674",
+    "project_id": "evaluacion03-f226c",
+    "storage_bucket": "evaluacion03-f226c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984277383674:android:51d5ac90a370f94fa7cc43",
+        "android_client_info": {
+          "package_name": "com.example.evaluacin03"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBklufuV5nrdO9Ygd2xxzv9euV4isk5-5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
